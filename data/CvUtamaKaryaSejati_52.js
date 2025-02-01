@@ -1,0 +1,1 @@
+var json_CvUtamaKaryaSejati_52 = {"type":"FeatureCollection","name":"CvUtamaKaryaSejati_52","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"35","Nama":"Cv. Utama Karya Sejati"},"geometry":{"type":"Point","coordinates":[101.455376452549132,-0.499701963544559]}}]}

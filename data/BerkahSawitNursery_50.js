@@ -1,0 +1,1 @@
+var json_BerkahSawitNursery_50 = {"type":"FeatureCollection","name":"BerkahSawitNursery_50","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"29","Nama":"Berkah Sawit Nursery"},"geometry":{"type":"Point","coordinates":[101.46111992215215,-0.502407652606679]}}]}

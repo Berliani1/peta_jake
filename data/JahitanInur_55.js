@@ -1,0 +1,1 @@
+var json_JahitanInur_55 = {"type":"FeatureCollection","name":"JahitanInur_55","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"103","Nama":"Jahitan Inur"},"geometry":{"type":"Point","coordinates":[101.472049323688907,-0.500431843521635]}}]}
